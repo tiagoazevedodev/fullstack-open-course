@@ -1,4 +1,4 @@
-# Fullstack Open 2023
+# Fullstack Open Course
 
 Welcome to the Fullstack Open 2023 repository! This course, provided by the University of Helsinki, aims to teach you modern web development using JavaScript. You'll learn to build full-stack applications with React, Redux, Node.js, Express, MongoDB, and GraphQL, among other technologies. The course also covers TypeScript and testing with Jest and Cypress.
 
